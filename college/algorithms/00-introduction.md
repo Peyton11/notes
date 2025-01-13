@@ -12,6 +12,8 @@
 - Implementation planning
 - Coding, testing, and verification
 
+![Algorithm Diagram](./images/algorithm-diagram.png)
+
 ## Examples
 
 - RSA
