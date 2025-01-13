@@ -19,6 +19,6 @@ T(n) is the time complexity.
 
 ### Big Omega is for the lower bound (best case).  
 
-T(n) ">=" 1  
+$T(n) \geq 1$
 
 $\Omega(1)$ 
